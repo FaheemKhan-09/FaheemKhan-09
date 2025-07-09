@@ -42,13 +42,6 @@ Greetings, I am Faheem Khan, a passionate cybersecurity professional committed t
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
-
-<br />
-
-
-#
-
-
 ### 📊 Stats
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/FaheemKhan.png)
@@ -58,19 +51,11 @@ Greetings, I am Faheem Khan, a passionate cybersecurity professional committed t
 ![GitHub Streak](https://streak-stats.demolab.com?user=FaheemKhan&theme=gruvbox&border_radius=4.5)
 
 #
-
+<h2>❤️ Support Me</h2>
+<p><p>
+<a href="https://www.buymeacoffee.com/Faheemkhan">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+</a>
+</p>
+</p>
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   You're diving into diverse areas, from **Next.js** and **Vue 2** to building a **Telegram bot** and leveraging **Bootstrap**. Plus, your expertise in **cryptos and blockchain technology** adds a fascinating layer of complexity to your work.  
-
-Here’s a snapshot of what my journey highlights so far:  
-
-- **Web Development:** Exploring frameworks like **Next.js** for modern applications and **Vue 2** for dynamic interfaces.  
-- **UI/UX Design:** Implementing responsive designs with **Bootstrap** and crafting visually appealing interfaces for specific use.  
-- **Automation and Bots:** Working on tools like a **Telegram bot**, which showcases your interest in automation and user engagement.  
-- **Blockchain and Crypto:** Your background here gives you an edge in innovative and secure tech development.  
-
-If you’re looking for guidance, learning paths, or ideas to expand, let me know! 🚀
-
-[website]: https://website.com
-[youtube]: https://youtube.com
