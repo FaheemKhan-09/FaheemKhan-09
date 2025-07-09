@@ -46,9 +46,17 @@ Greetings, I am Faheem Khan, a passionate cybersecurity professional committed t
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/FaheemKhan.png)
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaheemKhan&show_icons=true&theme=gruvbox)
+<li><a target="_blank" href=""></a></li>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/faheemkhan_x" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.facebook.com/FaheemKhan" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<a target="_blank" href="https://www.instagram.com/fhem._,01" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=" alt="" /></a></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=FaheemKhan&theme=gruvbox&border_radius=4.5)
+
 
 #
 <h2>❤️ Support Me</h2>
