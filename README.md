@@ -3,7 +3,9 @@
 
 **`WEB DEVELOPER`**
 
-Greetings, I am Faheem Khan, a passionate cybersecurity professional committed to ensuring digital safety and resilience. With over a year of experience in the field, I have been actively engaged in fortifying online systems, refining my skills, and cultivating a robust online reputation. My objective extends beyond bolstering my expertise; I am dedicated to forging strong client partnerships founded on impeccable service and trust. I am resolute in my pursuit of continuous learning, delving into the latest security methodologies and technologies to become a proficient cybersecurity specialist. Driven by determination and faith (InshAllah), I aspire to attain the zenith of professional accomplishment in the foreseeable future.
+Greetings, I am Faheem Khan, a passionate programmer, web designer, and AI enthusiast committed to creating innovative and intelligent digital solutions. With over a year of experience in the tech field, I have been actively engaged in developing dynamic web applications, refining my design skills, and exploring cutting-edge AI technologies. My objective extends beyond honing my expertise; I am dedicated to building strong client partnerships founded on creativity, precision, and trust. I am resolute in my pursuit of continuous learning, delving into the latest programming frameworks, design trends, and AI methodologies to become a proficient and versatile technology specialist. Driven by determination and faith (InshAllah), I aspire to attain the zenith of professional accomplishment in the foreseeable future.
+
+
 
    <p align="left">
       <a href="#">
